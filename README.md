@@ -69,7 +69,7 @@ Patients use self-service features to manage their care.
 
 ## Problem Statement 📋
 
-The National Medium Clinic faces significant challenges with its current paper-based system. As patient numbers increase, manual processes are becoming inefficient, requiring excessive manpower and resources. Key issues include:
+The Medium Clinic faces significant challenges with its current paper-based system. As patient numbers increase, manual processes are becoming inefficient, requiring excessive manpower and resources. Key issues include:
 
 - **Redundancy of Information**: Duplicated data across multiple locations leads to inconsistencies and management challenges.
 - **Delayed Information Storage**: Storing information in real-time is difficult due to manual organization.
@@ -83,10 +83,10 @@ MCMS resolves these issues by providing a centralized, secure, and automated pla
 
 Below are screenshots that showcase the key features of the Medium Clinic Management System. These demonstrate the user-friendly interface and core functionalities.
 
-- **Admin Dashboard**: Overview of the system.
-- <img width="2135" height="1174" alt="Screenshot 2025-09-10 072104" src="https://github.com/user-attachments/assets/f3a40215-e67f-4460-bfd8-4fdfb06110c5" />
+- **Admin Dashboard**: Overview of the system management dashboard.
+<img width="2135" height="1174" alt="Screenshot 2025-09-10 072104" src="https://github.com/user-attachments/assets/f3a40215-e67f-4460-bfd8-4fdfb06110c5" />
 
-- **Clerk Dashboard**: 
+- **Clerk Dashboard**: Patient registration and administrative tasks.
 <img width="2135" height="1174" alt="Screenshot 2025-09-10 073044" src="https://github.com/user-attachments/assets/0e8b4e51-d1a3-4d70-9000-db97136d3581" />
   
 - **Patient Dashboard**: Interface for viewing medical histories and reports for patients.  
